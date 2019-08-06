@@ -2,7 +2,7 @@
 #include "vychisl.h"
 using namespace std;
 int main() {
-	func60();
+	func65();
 	system("pause");
 	return 0;
 }
